@@ -20,3 +20,18 @@ To view the images and diagrams, navigate to the `/images` folder. The files are
 - **Personas**: Depictions of typical users and their needs.
 - **BPMN**: Flowcharts that model business processes.
 - **Data Models**: Schemas showing the structure of data involved in the system.
+
+## Tools Used
+
+This project utilizes the following tools and technologies:
+
+- **[Lucidchart](https://www.lucidchart.com/)** – Used for creating **BPMN diagrams** and **Use Case diagrams**.
+- **[draw.io](https://app.diagrams.net/)** – Used for designing **Data Model** diagrams.
+- **[Miro](https://miro.com/)** – Used for creating **user journey maps**.
+- **[Mural](https://www.mural.co/)** – Used for **user story mapping**.
+- **Markdown** – All documentation files (BRD, Functional Requirements) are written in Markdown for easy readability.
+- **GitHub** – For version control, collaboration, and issue tracking.
+
+## User stories
+
+User stories for this project are tracked in the [GitHub Project Board](https://github.com/users/irinamihai150/projects/3). You can view the **current status**, **progress**, and **assigned tasks** directly in the project board. This will help you keep track of the features and functionality being developed.
