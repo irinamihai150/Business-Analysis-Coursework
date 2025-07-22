@@ -87,7 +87,6 @@ Describe in your own words the differences between a use case, a scenario and a 
 A user story is a statement used to document a feature or functionality that a user would like in a software application.  
  A use case is what the system does from the user’s point of view, and the functional requirements the system will support
 
-![][image1]
 
 **As a** buyer **I want** to be able to sign up **So that** I can access my loyalty account
 
